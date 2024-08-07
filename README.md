@@ -36,8 +36,17 @@ The data was first normalized in Excel and then transformed in Power Query, The 
 
 ## Dashboard Insight
 ### Overview
+- The current quarter GDP IS N17.35 trillion following a 14.66% decrease compare to the previous quarter
+![Overview Dashboard](https://github.com/EzinneObisesan/GDP-Analysis-in-Nigeria/blob/main/images/Main%20GDP.png)
+
 ### GDP by Sector Analysis
 
-## Recommendation
+![GDP by Sector](https://github.com/EzinneObisesan/GDP-Analysis-in-Nigeria/blob/main/images/GDP%20by%20%20Sector%201.png)
+
+## Recommendations
+- More funds should follow to agriculture
+
+## Download
+<a href = "https://github.com/EzinneObisesan/GDP-Analysis-in-Nigeria/blob/main/images/GDP%20ANALYSIS%20DASHBOARD.pbix"> Download the Power Bi file <a/>
 
 
